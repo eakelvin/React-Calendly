@@ -1,0 +1,49 @@
+
+.sec {
+    width: 90%;
+    margin: auto;
+}
+.sort {
+    width: 100px;
+}
+
+.butt {
+    
+    border-top-left-radius: 100%;
+}
+.butt1 {
+    border-radius: 50px;
+}
+.but {
+    border-radius: 50px;
+    width: 15%;
+    padding: 10px 1rem;
+    color: black;
+}
+.but1 {
+    border-radius: 50px;
+    width: 25%;
+    padding: 10px 5px;
+    margin-left: 15px;
+}
+.but2 {
+    width: 12%;
+    border-radius: 50px;
+    padding: 10px 15px;
+}
+
+.linkk {
+    text-decoration: none;
+}
+
+.reduce {
+    height: 250px;
+    width: 250px;
+    border-radius: 90px;
+}
+
+.bgc {
+    background-image: url(./imagess/gra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
